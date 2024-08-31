@@ -2,9 +2,9 @@
         <section class="social-network section-padding">
             <div class="container">
                 <div class="center-content">
-                    <h2 class="section-title">Follow Us</h2>
+                    <h2 class="section-title" style="color:green;">Follow Us</h2>
                     <span class="underline center"></span>
-                    <p class="lead">We upload islamic content on the most popular social media platforms, follow us to
+                    <p class="lead" style="color:red;">We upload islamic content on the most popular social media platforms, follow us to
                         access them freely.</p>
                 </div>
                 <ul>

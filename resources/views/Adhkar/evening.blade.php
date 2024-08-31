@@ -5,7 +5,7 @@
         <section class="page-banner services-banner">
             <div class="container">
                 <div class="banner-header">
-                    <h2>Evening-Adhkar</h2>
+                    <h2 style="color: green;">Evening-Adhkar</h2>
                     <span class="underline center"></span>
                     <p id="ayat-header">ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ ۱۳:۲۸</p>
                     
@@ -14,7 +14,7 @@
                      use Carbon\Carbon;
                      $dt = Carbon::now();
                      $dt->addDays(1);
-                    echo "<p style='color:#FFF;'>" . $dt->toHijri()->isoFormat('LL') . " A.H.". "</p>" ;
+                    echo "<p style='color:red;'>" . $dt->toHijri()->isoFormat('LL') . " A.H.". "</p>" ;
                     ?>
                 </div>
                 <div class="breadcrumb">

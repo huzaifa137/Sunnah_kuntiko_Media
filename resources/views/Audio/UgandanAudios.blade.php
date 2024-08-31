@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>..:: Sunnah Islam Media ::..</title>
+    <title>..:: Sunnah kuntiko Media ::..</title>
 
     <!-- CSS FILES -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -122,7 +122,7 @@
                 <div class="row">
                     <div class="col-lg-12 col-12">
                         <div class="text-center mb-5 pb-2">
-                            <h1 class="text-white">Listen to Islamic Lectures</h1>
+                            <h1 class="text-danger">Listen to Islamic Lectures</h1>
                         </div>
                         <div class="owl-carousel owl-theme">
                         </div>
@@ -139,7 +139,7 @@
 
                     <div class="col-lg-12 col-12">
                         <div class="section-title-wrap mb-5">
-                            <h4 class="section-title">Ugandan Sheikhs</h4>
+                            <h4 class="section-title text-success">Ugandan Sheikhs</h4>
                         </div>
                     </div>
 
@@ -329,7 +329,7 @@
                     </div>
 
                     <div class="col-lg-3 col-12">
-                        <p class="copyright-text mb-0">Copyright © 2023 Sunnah Islam Media</p>
+                        <p class="copyright-text mb-0">Copyright © 2023 Sunnah kuntiko Media</p>
                     </div>
                 </div>
             </div>

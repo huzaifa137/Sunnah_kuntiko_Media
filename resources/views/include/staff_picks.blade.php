@@ -4,7 +4,7 @@
         <div class="center-content">
             <h2 class="section-title">Most Recent Uploads</h2>
             <span class="underline center"></span>
-            <p class="lead" style="color: yellow">All the recently uploaded islamic-books and pdfs in different languages from Sunnah Islam Media collection are shown here.</p>
+            <p class="lead" style="color: yellow">All the recently uploaded islamic-books and pdfs in different languages from Sunnah kuntiko Media collection are shown here.</p>
         </div>
        
         <div class="team-list">   

@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
 
         <!-- Title -->
-        <title>..:: Sunnah Islam Media ::..</title>
+        <title>..:: Sunnah kuntiko Media ::..</title>
 
         <!-- Favicon -->
         <link href="/assets/images/libraria-logo-v3.png" rel="icon" type="image/x-icon" />
@@ -176,7 +176,7 @@
         <section class="page-banner services-banner">
             <div class="container">
                 <div class="banner-header">
-                    <h2>Quran Audio Recitations</h2>
+                    <h2 style="color: green;">Quran Audio Recitations</h2>
                     <span class="underline center"></span>
                     <p class="lead" style="color: white">Free Islamic Books, Quran, Dua & Adhkar, Arabic study, Islamic Audio and Islamic Videos</p>
                     <?php 
@@ -184,7 +184,7 @@
                      use Carbon\Carbon;
                      $dt = Carbon::now();
                      $dt->addDays(1);
-                    echo "<p style='color:#FFF;'>" . $dt->toHijri()->isoFormat('LL') . " A.H.". "</p>" ;
+                    echo "<p style='color:red;'>" . $dt->toHijri()->isoFormat('LL') . " A.H.". "</p>" ;
                     ?>
                 </div>
                 <div class="breadcrumb">
@@ -211,7 +211,7 @@
                                     
                                     <div class="comments-area" id="comments">
                                         <div class="comment-bg">
-                                            <h4 class="comments-title" style="text-align: center">{{$name}}</h4>
+                                            <h4 class="comments-title" style="text-align: center;color:green;">{{$name}}</h4>
                                             <span class="underline center" ></span>
                                             <ol class="comment-list">
 
@@ -289,7 +289,7 @@
             <div class="row">
                 <div class="col-md-4 col-sm-6 widget-container">
                     <div id="text-2" class="widget widget_text">
-                        <h3 class="footer-widget-title">About &nbsp; Sunnah Islam Media</h3>
+                        <h3 class="footer-widget-title">About &nbsp; Sunnah kuntiko Media</h3>
                         <span class="underline left"></span>
                         <div class="textwidget" style="text-align: justify">
                             We ask your Du’a for the Ulama, Scholars, Students of Knowledge, Authors and Speakers whose works have been posted on this website, and for us. May Allah سُبْحَانَهُۥ وَتَعَالَىٰ make this website beneficial for all.                         </div>

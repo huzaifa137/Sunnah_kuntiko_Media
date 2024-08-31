@@ -177,7 +177,7 @@
         <section class="page-banner services-banner">
             <div class="container">
                 <div class="banner-header">
-                    <h2>Quran Audio Recitations</h2>
+                    <h2 style="color: green;">Quran Audio Recitations</h2>
                     <span class="underline center"></span>
                     <p class="lead" style="color: white">Free Islamic Books, Quran, Dua & Adhkar, Arabic study, Islamic Audio and Islamic Videos</p>
                     <?php 
@@ -185,7 +185,7 @@
                      use Carbon\Carbon;
                      $dt = Carbon::now();
                      $dt->addDays(1);
-                    echo "<p style='color:#FFF;'>" . $dt->toHijri()->isoFormat('LL') . " A.H.". "</p>" ;
+                    echo "<p style='color:red;'>" . $dt->toHijri()->isoFormat('LL') . " A.H.". "</p>" ;
                     ?>
                 </div>
                 <div class="breadcrumb">
@@ -228,9 +228,9 @@
                                                 </thead>
                                                 <tbody>
                                                     <tr>
-                                                        <td style="color: #0dcf31"> <a href="{{url('surah/Abdullah Awad al-Juhani')}}"> Abdullah Awad al-Juhani </a></td>
+                                                        <td style="color: #0dcf31;"> <a href="{{url('surah/Abdullah Awad al-Juhani')}}"> Abdullah Awad al-Juhani </a></td>
                                                         <td> <a href="{{url('surah/Abdullah Basfar')}}" style="color: black !important"> Abdullah Basfar</td></a>
-                                                        <td style="color: #0dcf31"> <a href="{{url('surah/Abdur-Rahman as-Sudais')}}" >Abdur-Rahman as-Sudais</td>                                                                
+                                                        <td style="color: yellow !important;"> <a href="{{url('surah/Abdur-Rahman as-Sudais')}}" >Abdur-Rahman as-Sudais</td>                                                                
                                                     </tr>
                                                     <tr>
                                                         <td ><a href="{{url('surah/AbdulMuhsin al-Qasim')}}" style="color: #000">AbdulMuhsin al-Qasim</td>

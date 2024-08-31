@@ -10,7 +10,7 @@
         <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
 
         <!-- Title -->
-        <title>..:: Sunnah Islam Media ::..</title>
+        <title>..:: Sunnah kuntiko Media ::..</title>
 
         <!-- Favicon -->
         <link href="/assets/images/libraria-logo-v3.png" rel="icon" type="image/x-icon" />
@@ -227,9 +227,9 @@
                     </figure>
                     <div class="container">
                         <div class="carousel-caption">
-                            <h2 style="color: white" class="Basmallah">بسم الله الرحمن الرحيم</h2>
-                            <h2>You're Welcome to Sunnah Islam Media </h2>
-                            <p>Sunnah Islam Media gives you access to free <strong>Islamic Books,</strong> <strong>Quran,</strong> <strong>Dua & Adhkar,</strong> <strong>Arabic study,</strong><strong>Islamic Audio and Islamic Videos</strong></p>
+                            <h2 style="color: green" class="Basmallah">بسم الله الرحمن الرحيم</h2>
+                            <h2>You're Welcome to Sunnah kuntiko Media </h2>
+                            <p>Sunnah kuntiko Media gives you access to free <strong>Islamic Books,</strong> <strong>Quran,</strong> <strong>Dua & Adhkar,</strong> <strong>Arabic study,</strong><strong>Islamic Audio and Islamic Videos</strong></p>
 
                             <div class="filter-box">
                                 <form action="{{route('search-bar')}}" class="banner-filter-box" method="get">
@@ -478,9 +478,9 @@
                     <div class="col-md-6">
                         <div class="welcome-wrap">
                             <div class="welcome-text">
-                              <h2 class="section-title"  >Welcome to SUNNAH ISLAM MEDIA</h2>
+                              <h2 class="section-title" style="color: green;" >Welcome to Sunnah kuntiko Media</h2>
                                 <span class="underline left"></span>
-                                <p style="text-align:justify"> <b> Bismillaahi Rahmaan Raheem</b> – In the Name of Allāh, the Beneficent, the Merciful. <br> <br> Praise be to Allah سُبْحَانَهُۥ وَتَعَالَ, and the peace and blessings of Allah be upon the noble Messenger, his family, companions and those who follow them upon excellence till the day of judgement. <br> <br> Sunnah Islam Media has been created to disseminate authentic and beneficial knowledge from Salafi Scholars and Students based on the Blessed and Moderate Methodology of the Sahabah, Taabi’een and Atbaa’ At-Tabi’een. We reject all forms of extremism and religious fanaticism in the name of Salfiyah. We also reject speech from hasty youth who are causing divisions among Salafi communities and rejecting advice of the Scholars. We love and respect our Noble Scholars, past and present, for the sake of Allah سُبْحَانَهُۥ وَتَعَالَ, Who blessed them with knowledge of His Book and Sunnah of the Prophet صلى الله عليه وسلم, and we shall continue to propagate their work, Insh'a Allah. <br>
+                                <p style="text-align:justify"> <b> Bismillaahi Rahmaan Raheem</b> – In the Name of Allāh, the Beneficent, the Merciful. <br> <br> Praise be to Allah سُبْحَانَهُۥ وَتَعَالَ, and the peace and blessings of Allah be upon the noble Messenger, his family, companions and those who follow them upon excellence till the day of judgement. <br> <br> Sunnah kuntiko Media has been created to disseminate authentic and beneficial knowledge from Salafi Scholars and Students based on the Blessed and Moderate Methodology of the Sahabah, Taabi’een and Atbaa’ At-Tabi’een. We reject all forms of extremism and religious fanaticism in the name of Salfiyah. We also reject speech from hasty youth who are causing divisions among Salafi communities and rejecting advice of the Scholars. We love and respect our Noble Scholars, past and present, for the sake of Allah سُبْحَانَهُۥ وَتَعَالَ, Who blessed them with knowledge of His Book and Sunnah of the Prophet صلى الله عليه وسلم, and we shall continue to propagate their work, Insh'a Allah. <br>
                                   </p>
                                 <a class="btn btn-dark-gray" href="{{route('about-us')}}">Read More</a>
                             </div>
@@ -500,7 +500,7 @@
                         <div class="center-content">
                             <h2 class="section-title">Subscribe to our Newsletters</h2>
                             <span class="underline center"></span>
-                            <p class="lead">Subscribe to Sunnah Islam Media newsletter to access any update and information.</p>
+                            <p class="lead">Subscribe to Sunnah kuntiko Media newsletter to access any update and information.</p>
                         </div>
                         <div class="form-group">
                             <input class="form-control" placeholder="Enter your Email!" id="newsletter" name="newsletter" type="email">
@@ -516,9 +516,9 @@
         <section class="category-filter section-padding">
             <div class="container">
                 <div class="center-content">
-                    <h2 class="section-title">Check Out The New Releases</h2>
+                    <h2 class="section-title" style="color:green;">Check Out The New Releases</h2>
                     <span class="underline center"></span>
-                    <p class="lead" id="hadith_intro">All the recently uploaded islamic-books and pdfs in different languages from Sunnah Islam Media collection are shown here.</p>
+                    <p class="lead" id="hadith_intro">All the recently uploaded islamic-books and pdfs in different languages from Sunnah kuntiko Media collection are shown here.</p>
                 </div>
             </div>
 
@@ -629,7 +629,7 @@
         <section class="community-testimonial">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-title">HADITH</h2>
+                    <h2 class="section-title" style="color:green;">HADITH</h2>
                     <span class="underline center"></span>
                     <span id="hadith_intro" ><strong>  Abu Hurairah (رضي الله عنه)reported:The Messenger of Allah (ﷺ) said,“The world, with all that it contains, is accursed except for the remembrance of Allah that which pleases Allah; and the religious schools and seekers of knowledge.” </strong></p></span>
                 </div>
@@ -773,7 +773,7 @@
             <div class="row">
                 <div class="col-md-4 col-sm-6 widget-container">
                     <div id="text-2" class="widget widget_text">
-                        <h3 class="footer-widget-title">About &nbsp; Sunnah Islam Media</h3>
+                        <h3 class="footer-widget-title">About &nbsp; Sunnah kuntiko Media</h3>
                         <span class="underline left"></span>
                         <div class="textwidget" style="text-align: justify">
                             We ask your Du’a for the Ulama, Scholars, Students of Knowledge, Authors and Speakers whose works have been posted on this website, and for us. May Allah سُبْحَانَهُۥ وَتَعَالَىٰ make this website beneficial for all.                         </div>

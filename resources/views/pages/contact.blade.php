@@ -106,7 +106,7 @@
                                                 <div class="row">
                                                     <div class="col-md-12">
                                                         <div class="contact-form bg-light ">
-                                                            <h2>Send us a message</h2>
+                                                            <h2 style="color:green;">Send us a message</h2>
                                                             <span class="underline left"></span>
                                                             <div class="contact-fields">
                                                                 <form action="{{ route('send-message') }}" method="post">
@@ -156,7 +156,7 @@
                                                                         </div>
                                                                         <div class="col-sm-12">
                                                                             <div class="form-group form-submit">
-                                                                                <input class="btn btn-default"
+                                                                                <input class="btn btn-default" style="background-color:green;"
                                                                                     type="submit" value="Send Message" onclick="return confirm('Please confirm you want to send message !')" />
                                                                             </div>
                                                                         </div>

@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>..:: Sunnah Islam Media Audios ::..</title>
+    <title>..:: Sunnah kuntiko Media Audios ::..</title>
 
     <!-- CSS FILES -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -151,7 +151,7 @@
 
                     <div class="col-lg-12 col-12">
                         <div class="section-title-wrap mb-5" style="text-align: center;">
-                            <h4 class="section-title"><span style="color: green">Serie :</span> <strong> <span style="color: var(--primary-color);">{{ $Seriename }}</span></strong></h4>
+                            <h4 class="section-title"><span style="color: green">Serie :</span> <strong> <span style="color: red;">{{ $Seriename }}</span></strong></h4>
                         </div>
                     </div>
 
@@ -311,7 +311,7 @@
                 </div>
 
                 <div class="col-lg-3 col-12">
-                    <p class="copyright-text mb-0">Copyright © 2023 Sunnah Islam Media</p>
+                    <p class="copyright-text mb-0">Copyright © 2023 Sunnah kuntiko Media</p>
                 </div>
             </div>
         </div>

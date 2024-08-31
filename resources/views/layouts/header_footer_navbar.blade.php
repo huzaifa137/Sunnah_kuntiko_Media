@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>..:: Sunnah Islam Media Admin Dashboard ::..</title>
+    <title>..:: Sunnah kuntiko Media Admin Dashboard ::..</title>
     <!-- Favicon icon -->
     <link href="/assets/images/libraria-logo-v3.png" rel="icon" type="image/x-icon" />
     <link rel="stylesheet" href="/assets-3/vendor/jqvmap/css/jqvmap.min.css">

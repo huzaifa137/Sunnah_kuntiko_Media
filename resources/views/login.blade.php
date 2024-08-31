@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="{{ asset('bootstrap/css/bootstrap.min.css') }}">
-    <title>Sunnah Islam Media</title>
+    <title>Sunnah kuntiko Media</title>
 
     <!-- Favicon -->
     <link href="/assets/images/libraria-logo-v3.png" rel="icon" type="image/x-icon" />

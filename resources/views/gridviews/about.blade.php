@@ -5,7 +5,7 @@
         <section class="page-banner services-banner">
             <div class="container">
                 <div class="banner-header">
-                    <h2>Our Services</h2>
+                    <h2 style="color:green;">Our Services</h2>
                     <span class="underline center"></span>
                     <p class="lead" style="color: #fff">Access free Islamic Books, Quran, Dua & Adhkar, Arabic study, Islamic Audio and Islamic Videos</p>
                     
@@ -14,7 +14,7 @@
                      use Carbon\Carbon;
                      $dt = Carbon::now();
                      $dt->addDays(1);
-                    echo "<p style='color:#0088ff;'>" . $dt->toHijri()->isoFormat('LL') . " A.H.". "</p>" ;
+                    echo "<p style='color:red;'>" . $dt->toHijri()->isoFormat('LL') . " A.H.". "</p>" ;
                     ?>
                 
                 </div>
@@ -36,9 +36,9 @@
                             <section class="services-offering">
                                 <div class="container">
                                     <div class="center-content">
-                                        <h2 class="section-title">SERVICE WE ARE OFFERING</h2>
+                                        <h2 class="section-title" style="color:green;">SERVICE WE ARE OFFERING</h2>
                                         <span class="underline center"></span>
-                                        <p class="lead" style="color: #3686ff">Free Islamic Books, Quran, Dua & Adhkar, Arabic study, Islamic Audio and Islamic Videos</p>
+                                        <p class="lead" style="color: red">Free Islamic Books, Quran, Dua & Adhkar, Arabic study, Islamic Audio and Islamic Videos</p>
                                         <div class="clearfix"></div>
                                     </div>
                                     <div class="clearfix"></div>
@@ -186,10 +186,10 @@
                                                 <div class="row">
                                                     <div class="col-sm-11">
                                                         <div class="company-detail">
-                                                            <h3 class="section-title">Who we are</h3>
+                                                            <h3 class="section-title" style="color:green;">Who we are</h3>
                                                             <span class="underline left"></span>
                                                             <p style="text-align: justify"> Our Da'wah (call/ preaching) is established upon Kitaab (the book of Allah) and The Sunnah (Authentic traditions of prophet Muhammad) according to the understanding of The Salaf (righteous predecessors of this Ummah). What they considered to be first and foremost in their da'wah is what is first and foremost in our da'wah. It's nothing else but "Tauhiid", singling out Allah, in His Lordship (Rubuubiyyah), His sole right to be worshipped (Uluuhiyyah) and His perfect names and attributes (Asmaa' wa Asswifaat).</p> <p style="text-align: justify"> Kindly contact us immediately if you find any material contradicting the Quran and the Sunnah or if you come across any errors due to our ignorance and lack of Islamic knowledge. </p>
-                                                            <p style="text-align: justify">Sunnah Islam Media does not have specific types of members based upon allegiance, identity card, tribe, region, sect, or anything else. Rather, we consider everyone who is pleased with Allah as Lord, with Islam as a religion, and with Muhammad صلى الله عليه وسلم as a Prophet, to automatically be a member of the organization and deserving of the organization’s services. <br> <br> We reject hizbiyyah, (partisanship) and disunity, and we call everyone to be part of the saved sect; To adhere to the Qur'an and the Sunnah according to the understanding of the pious predecessors of this Ummah. </p>
+                                                            <p style="text-align: justify">Sunnah kuntiko Media does not have specific types of members based upon allegiance, identity card, tribe, region, sect, or anything else. Rather, we consider everyone who is pleased with Allah as Lord, with Islam as a religion, and with Muhammad صلى الله عليه وسلم as a Prophet, to automatically be a member of the organization and deserving of the organization’s services. <br> <br> We reject hizbiyyah, (partisanship) and disunity, and we call everyone to be part of the saved sect; To adhere to the Qur'an and the Sunnah according to the understanding of the pious predecessors of this Ummah. </p>
                                                             <p style="text-align: justify">This is <b> not-for-profit</b> website and all material contained within this website is published free of charge and in their original format for spreading Islamic knowledge.</p>
                                                         </div>
                                                     </div>
@@ -249,7 +249,7 @@
                                                 <div class="row">
                                                     <div class="col-md-12">
                                                         <div class="company-detail bg-dark margin-left">
-                                                            <h3 class="section-title">DISCLAIMER</h3>
+                                                            <h3 class="section-title" style="color:red;">DISCLAIMER</h3>
                                                             <span class="underline left"></span>
                                                             <p style="text-align: justify">All books and lectures here within are provided purely for educational and research purposes, please do not abuse this service by using it for commercial purposes. Give credit to the original content creators and only redistribute in its original format. Everything has been collected from free internet and individual sources.</p>
                                                             <p style="text-align: justify">We ask your Du’a for the Ulama, Scholars, Students of Knowledge, Authors and Speakers whose works have been posted on this website, and for us. May Allah سُبْحَانَهُۥ وَتَعَالَىٰ make this website beneficial for all. May Allah سُبْحَانَهُۥ وَتَعَالَىٰ Help us in this challenging task to spread His Deen, as practiced by the Sahabah and Tabe’ein to seek His Pleasure.</p>
@@ -263,13 +263,13 @@
                                                 <div class="row">
                                                     <div class="col-md-12">
                                                         <div class="company-detail bg-light margin-right">
-                                                            <h3 class="section-title">COPYRIGHT</h3>
+                                                            <h3 class="section-title" style="color:green;">COPYRIGHT</h3>
                                                             <span class="underline left"></span>
                                                             <p style="text-align: justify">This site may contain images, books, audio and video content delivered to our audience. Some of these maybe copyrighted materials the use of which has not been specifically authorized by the copyright owners.</p>
-                                                            <p style="text-align: justify">Sunnah Islam Media is making such material available in our effort to advance understanding of Islam and Prophetic teachings among the Muslim brothers and sisters we do not own nor create some of this content.</p>
+                                                            <p style="text-align: justify">Sunnah kuntiko Media is making such material available in our effort to advance understanding of Islam and Prophetic teachings among the Muslim brothers and sisters we do not own nor create some of this content.</p>
                                                             <p style="text-align: justify">We do believe this constitutes a "Fair Use" of any such copyrighted material however would you wish to have any of your work removed from our site, please inform us and we will remove it immediately. Provide legal proof of your right to demand removal. If verified, the material will be removed immediately. Feel free to email us at <span><a href="mailto:info@sunnahislammedia.com">info@sunnahislammedia.com</a></span>  to raise your complaint.</p>
                                                             <b><p style="text-align: justify">All credits go to their rightful owners.</p></b>
-                                                            <a href="javascript:void()" class="btn btn-dark-gray">Donate</a>
+                                                            <a href="javascript:void()" class="btn btn-dark-gray" style="background-color:green;">Donate</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -283,9 +283,9 @@
                             <section class="community-testimonial">
                                 <div class="container">
                                     <div class="text-center">
-                                        <h2 class="section-title">Words From Islamic Scholars</h2>
+                                        <h2 class="section-title" style="color: green;">Words From Islamic Scholars</h2>
                                         <span class="underline center"></span>
-                                        <p class="lead">Great Advices and words of knowldge from Ulamah's of this Ummah.</p>
+                                        <p class="lead" style="color:red;">Great Advices and words of knowldge from Ulamah's of this Ummah.</p>
                                     </div>
                                     <div class="owl-carousel">
                                         <div class="single-testimonial-box">
@@ -355,9 +355,9 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-3 text-center">
-                                            <h2 class="section-title">Check Out The New Releases</h2>
+                                            <h2 class="section-title" style="color: green;">Check Out The New Releases</h2>
                                             <span class="underline center"></span>
-                                            <p class="lead" id="hadith_intro">All the recently uploaded islamic-books and pdfs in different languages from Sunnah Islam Media collection are shown here.</p>
+                                            <p class="lead" id="hadith_intro">All the recently uploaded islamic-books and pdfs in different languages from Sunnah kuntiko Media collection are shown here.</p>
                                         </div>
                                     </div>
                                 </div>
